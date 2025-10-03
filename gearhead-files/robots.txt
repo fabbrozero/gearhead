@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://fabbrozero.github.io/gearhead/sitemap.xml
